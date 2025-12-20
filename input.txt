@@ -1,0 +1,15 @@
+[2025-01-12 11:02:15] INFO: Internship application submitted
+Applicant Name: Shreya
+Applicant Email: shreyakantha@gmail.com
+
+[2025-01-12 11:05:42] INFO: Application forwarded to review team
+Reviewer Email: reviewer@codealpha.tech
+
+[2025-01-12 11:20:10] INFO: Confirmation email sent
+Recipient: shreya.student@gmail.com
+
+[2025-01-12 11:45:33] INFO: Technical task assigned
+Coordinator Email: internships@codealpha.tech
+
+[2025-01-12 12:10:27] INFO: Support ticket created
+Contact Email: support@codealpha.tech
