@@ -130,7 +130,7 @@ If you have any feedback or suggestions, feel free to reach out at 📧 shreyaka
 This project was completed as ***The third task which is Task Automation with Python Scripts*** under the **CodeAlpha Python Programming Internship**, where the ***Email Extraction Automation*** topic was selected for implementation.
 
 ## 📌 Related Projects
-*The following projects were completed as part of the same CodeAlpha internship program and focus on strengthening core Python programming concepts.*
+*The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
 -  🔗 [Hangman Game – Python fundamentals and control flow](https://github.com/shreyakantha/CodeAlpha_HangmanGame)
 -  🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)
 -  🔗 [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/CodeAlpha_BasicChatbot)
