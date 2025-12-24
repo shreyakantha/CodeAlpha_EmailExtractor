@@ -120,11 +120,11 @@ If you have any feedback or suggestions, feel free to reach out at 📧 shreyaka
 
 ## ❓ FAQ
 #### Q1. Does this script generate email addresses?
-No. It only extracts existing email addresses from a .txt file.
+**Answer.** No. It only extracts existing email addresses from a .txt file.
 #### Q2. What happens if the input.txt file has no emails?
-The output file will be empty.
+**Answer.** The output file will be empty.
 #### Q3. Where is the output file saved?
-In the same directory where the script is executed.
+**Answer.** In the same directory where the script is executed.
 
 ## 🧩 Appendix
 This project was completed as ***The third task which is Task Automation with Python Scripts*** under the **CodeAlpha Python Programming Internship**, where the ***Email Extraction Automation*** topic was selected for implementation.
