@@ -120,9 +120,13 @@ This is a local Python script and does not require deployment. It can be execute
 ## 📄 Documentation
 The project follows a simple and readable structure. The script is short and self-explanatory, with clear function naming and logical flow. Detailed usage instructions and examples are provided in this `README.md`.
 
+---
+
 ## 👤 Author
 **Shreya Kantha** 
 - GitHub : [@shreyakantha](https://github.com/shreyakantha)
+
+---
 
 ## 🙌 Acknowledgements
 - CodeAlpha Internship Program for providing the task and learning opportunity
@@ -130,18 +134,21 @@ The project follows a simple and readable structure. The script is short and sel
 - Online regex learning resources for understanding pattern matching
 - Open-source README formatting guidelines
 
+---
 ## 📜 License
 This project is licensed under the `MIT License`, which means you are free to use, modify, and distribute this software with proper attribution.
 
-
+---
 ## 🌱 Support
 If you find this project helpful or interesting, consider giving it a ⭐ on GitHub.  
 
 It helps improve visibility, supports open-source learning, and motivates further improvements.
 
+---
 ## 💬 Feedback
 If you have any feedback or suggestions, feel free to reach out at 📧 shreyakantha348@gmail.com
 
+---
 ## ❓ FAQ
 #### Q1. Does this script generate email addresses?
 **Answer.** No. It only extracts existing email addresses from a `.txt` file.
@@ -150,9 +157,11 @@ If you have any feedback or suggestions, feel free to reach out at 📧 shreyaka
 #### Q3. Where is the output file saved?
 **Answer.** In the same directory where the script is executed.
 
+---
 ## 🧩 Appendix
 This project was completed as ***The third task which is Task Automation with Python Scripts*** under the **CodeAlpha Python Programming Internship**, where the ***Email Extraction Automation*** topic was selected for implementation.
 
+---
 ## 📌 Related Projects
 *The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
 -  🔗 [Hangman Game – Python fundamentals and control flow](https://github.com/shreyakantha/CodeAlpha_HangmanGame)
