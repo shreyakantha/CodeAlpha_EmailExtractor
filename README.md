@@ -1,60 +1,72 @@
 # 📧 Email Extraction Automation
-This project focuses on automating a common real-life repetitive task using Python. The script extracts all valid email addresses from a plain text (.txt) file and saves them into a separate output file. Manually scanning large text files for email addresses is inefficient and error-prone. This automation simplifies the process using Python’s file handling and regular expressions, making it suitable for processing documents, logs, or exported data.
+This project focuses on automating a common real-life repetitive task using Python. The script extracts all valid email addresses from a plain text (`.txt`) file and saves them into a separate output file. Manually scanning large text files for email addresses is inefficient and error-prone. This automation simplifies the process using Python file handling and regular expressions, making it suitable for processing documents, logs, or exported data.
+
+---
 
 ## 🎯 Goal
-Automate the extraction of email addresses from a text file and store them in a separate file (e.g., .txt, .csv, .log etc.) for easy reuse.
+Automate the extraction of email addresses from a text file and store them in a separate file such as `.txt`, `.csv`, or `.log` for easy reuse.
+
+---
 
 ## ⭐ Features
-- Reads data from a .txt file
-- Extracts valid email addresses using regular expressions
-- Removes duplicate email entries automatically
-- Saves extracted emails into a separate output file
+- Reading data from a `.txt` file
+- Extracting valid email addresses using regular expressions
+- Automatic removal of duplicate email entries
+- Saving extracted emails into a separate output file
 - Simple and beginner-friendly Python script
-- Includes basic error handling
+- Basic error handling
+
+---
 
 ## 🧠 Key Concepts Used
-- File Handling
-- Regular Expressions (re)
+- File handling
+- Regular expressions using the `re` module
 - Sets for duplicate removal
 - Basic Python scripting
 
-## 🛠 Tech Stack
-**Language :** Python
+---
 
-**Libraries Used :** re (Regular Expressions)
+## 🛠 Tech Stack
+- **Language :** Python 3.x
+- **Library Used :** `re` (Regular Expressions)
+
+---
+## ⚙️ Requirements
+- Installed Python 3.x on the system
+
+---
 
 ## 📂 Project Structure
-```Bash
+```bash
 CodeAlpha_EmailExtractor/
-│
 ├── EmailExtractor.py     # Main Python script
-├── input.txt             # Input text file (user-provided data)
-├── README.md             # Project documentation
+├── input.txt             # Input text file with sample data
+└── README.md             # Project documentation
 ```
+---
 ## 📥 Installation
 Clone the repository using Git :
 ```Bash
-  git clone https://github.com/shreyakantha/CodeAlpha_EmailExtractor
+git clone
+https://github.com/shreyakantha/CodeAlpha_EmailExtractor
 cd CodeAlpha_EmailExtractor
 ```
-    
+---
 ## 🖥 Run Locally
-Navigate to the location of your file :
-```bash
-  cd CodeAlpha_EmailExtractor
-```
-Run the script :
+Run the script using :
 ```bash
  python EmailExtractor.py
 ```
-
+---
 ## 🎥 Demo
 *A video demonstration showing the complete working of the Email Extraction Automation script. The video covers the Python source code, the input text file containing sample email addresses, execution of the script, and the automatically generated output file with all extracted unique emails.*
 
 [ ▶ click here to view the demo video of the email extraction automation ](https://github.com/shreyakantha/CodeAlpha_EmailExtractor/releases/tag/v1.0)
 
+---
 ## 📝  Usage/Example
 The example below shows how the script reads a text file containing email addresses and extracts all valid entries into a separate output file.
+
 **Example input.txt**
 ```bash
 [2025-01-12 11:02:15] INFO: Internship application submitted
@@ -81,30 +93,36 @@ shreya.student@gmail.com
 shreyakantha@gmail.com
 support@codealpha.tech
 ```
+---
 ## 🚀 Deployment
 This is a local Python script and does not require deployment. It can be executed on any system with Python installed.
 
-## ⚙ Optimizations
+---
+## ⚡ Optimizations
 - Uses a set to remove duplicate emails efficiently
 - Can be optimized further by reading large files line-by-line instead of loading the entire file at once
 
+---
 ## 📚 Lessons Learned
 - Working with regular expressions for pattern matching
 - Handling files safely using Python
 - Automating repetitive tasks using simple scripts
 - Structuring small automation projects professionally
 
+---
 ## 🔮 Future Improvements
 - Support reading large files line-by-line
 - Export results in CSV or JSON format
 - Improve regex for advanced email patterns
 - Add command-line arguments for file names
 
+---
 ## 📄 Documentation
-The project follows a simple and readable structure. The script is short and self-explanatory, with clear function naming and logical flow. Detailed usage instructions and examples are provided in this README.
+The project follows a simple and readable structure. The script is short and self-explanatory, with clear function naming and logical flow. Detailed usage instructions and examples are provided in this `README.md`.
 
 ## 👤 Author
-- [@shreyakantha](https://github.com/shreyakantha) 
+**Shreya Kantha** 
+- GitHub : [@shreyakantha](https://github.com/shreyakantha)
 
 ## 🙌 Acknowledgements
 - CodeAlpha Internship Program for providing the task and learning opportunity
@@ -113,14 +131,20 @@ The project follows a simple and readable structure. The script is short and sel
 - Open-source README formatting guidelines
 
 ## 📜 License
-This project is open for educational and personal use. Feel free to modify, improve, and expand it as needed.
+This project is licensed under the `MIT License`, which means you are free to use, modify, and distribute this software with proper attribution.
+
+
+## 🌱 Support
+If you find this project helpful or interesting, consider giving it a ⭐ on GitHub.  
+
+It helps improve visibility, supports open-source learning, and motivates further improvements.
 
 ## 💬 Feedback
 If you have any feedback or suggestions, feel free to reach out at 📧 shreyakantha348@gmail.com
 
 ## ❓ FAQ
 #### Q1. Does this script generate email addresses?
-**Answer.** No. It only extracts existing email addresses from a .txt file.
+**Answer.** No. It only extracts existing email addresses from a `.txt` file.
 #### Q2. What happens if the input.txt file has no emails?
 **Answer.** The output file will be empty.
 #### Q3. Where is the output file saved?
