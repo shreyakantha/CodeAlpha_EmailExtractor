@@ -59,7 +59,7 @@ Run the script using :
 ```
 ---
 ## 🎥 Demo
-*A video demonstration showing the complete working of the Email Extraction Automation script. The video covers the Python source code, the input text file containing sample email addresses, execution of the script, and the automatically generated output file with all extracted unique emails.*
+A video demonstration showing the complete working of the Email Extraction Automation script. The video covers the Python source code, the input text file containing sample email addresses, execution of the script, and the automatically generated output file with all extracted unique emails.
 
 [ ▶ click here to view the demo video of the email extraction automation ](https://github.com/shreyakantha/CodeAlpha_EmailExtractor/releases/tag/v1.0)
 
